@@ -25,12 +25,16 @@ spec:
 
     In this quick start, you will add a custom repository to the Red Hat Hybrid Cloud Console and create an image with custom content.
 
+    Note: This procedure is available just for the **Preview** experience.  
+
   tasks:
     - title: Add a custom repository
       description: |-
         
         <h4 id="ib-add-custom"><b>Add a Custom Repository:</b></h4>
 
+        1. Toggle the **Preview** button to on in the top right corner.
+       
         1. Click the Settings <i class="fas fa-cog"></i> icon in the top right corner.
 
         1. In Settings, click **Repositories** in the left menu.
